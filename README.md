@@ -1,16 +1,9 @@
-# flutter_pr_3
+# App_Mania
 
-A new Flutter project.
+### output
 
-## Getting Started
+<img src = "https://github.com/user-attachments/assets/09a5715f-ea27-41ce-8ea9-b89f75c9a2aa" width="200">
+<img src = "https://github.com/user-attachments/assets/17ff14ae-609a-4d59-a9fe-a94b1d0e6d35" width="200">
+<img src = "https://github.com/user-attachments/assets/07cac5e2-7448-47c7-831a-c73f168bb1a6" width="200">
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
